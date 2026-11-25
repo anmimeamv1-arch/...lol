@@ -1,0 +1,6 @@
+{
+  "name": "Capulana Shop Map",
+  "description": "Interactive 3D spatial mapper connecting wall capulana displays to exact storage shelf rows and columns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
